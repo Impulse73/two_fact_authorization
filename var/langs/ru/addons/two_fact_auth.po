@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Languages::enter_code_to_fact_auth"
+msgid "Enter the code for authorization"
+msgstr "Введите код для авторизации"
+
+msgctxt "Languages::attempts_left"
+msgid "Аttempts left"
+msgstr "У вас осталось попыток отправить код на почту:"
+
+msgctxt "Languages::send_code_again"
+msgid "Send code again"
+msgstr "Отправить код повторно"
+
+msgctxt "Languages::code_for_auth"
+msgid "Code for authorization"
+msgstr "Код для авторизации"
+
+msgctxt "Languages::enter_login_and_password_again"
+msgid "Enter your username and password again to unlock the re-sending of the code to the mail"
+msgstr "Введите логин и пароль снова, чтобы разблкировать повторную отправку кода на почту"
+
+msgctxt "Languages::enter_code"
+msgid "Enter 4-digit code"
+msgstr "Введите четырех-значный код"
+
+msgctxt "Languages::incorrect_pass_try_again"
+msgid "Incorrect code. Try again"
+msgstr "Неверный код. Попробуйте ещё раз"
