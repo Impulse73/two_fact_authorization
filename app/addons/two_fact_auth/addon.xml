@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>two_fact_auth</id>
+    <version>1.0</version>
+    <priority>2800</priority>
+    <position>100</position>
+    <status>active</status>
+    <dependencies/>
+    <default_language>en</default_language>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+      <email_templates>
+        <templates>
+            <item>
+                <code><![CDATA[two_fact_auth_two_fact_auth]]></code>
+                <area><![CDATA[A]]></area>
+                <status><![CDATA[A]]></status>
+                <default_subject><![CDATA[{{ subject }}]]></default_subject>
+                <default_template><![CDATA[{{ snippet("header") }}
+                    {{ __("code_for_auth") }}: 
+                    <b>{{ code }}</b>]]>
+                </default_template>
+                <addon><![CDATA[two_fact_auth]]></addon>
+            </item>
+        </templates>
+    </email_templates>
+</addon>
