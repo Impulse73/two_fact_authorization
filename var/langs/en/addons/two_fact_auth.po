@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Languages::enter_code_to_fact_auth"
+msgid "Enter the code for authorization"
+msgstr "Enter the code for authorization"
+
+msgctxt "Languages::attempts_left"
+msgid "Аttempts left"
+msgstr "You still have attempts to send the code by email: "
+
+msgctxt "Languages::send_code_again"
+msgid "Send code again"
+msgstr "Send code again"
+
+msgctxt "Languages::code_for_auth"
+msgid "Code for authorization"
+msgstr "Code for authorization"
+
+msgctxt "Languages::enter_login_and_password_again"
+msgid "Enter your username and password again to unlock the re-sending of the code to the mail"
+msgstr "Enter your username and password again to unlock the re-sending of the code to the mail"
+
+msgctxt "Languages::enter_code"
+msgid "Enter 4-digit code"
+msgstr "Enter your four-digit code"
+
+msgctxt "Languages::incorrect_pass_try_again"
+msgid "Incorrect code. Try again"
+msgstr "Incorrect code. Try again"
